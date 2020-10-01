@@ -1,0 +1,27 @@
+body{margin: 0px;margin-top: 0px ; }
+h1{margin-top: 0px;}
+
+.name{background-color:#e4f9f5;
+  border-style: solid;
+  height: 200px;
+  width:200px;
+  border-width: 10px;
+  padding: 20px;
+}
+.redd{background-color: red;
+  padding: 20px;
+    border-style: solid;
+height: 200px;
+width:200px;
+border-width: 20px;
+margin-left: 260px;
+}
+.bluee{background-color: yellow;
+    border-style: solid;
+      padding: 20px;
+  height: 200px;
+  width:200px;
+  border-width: 20px;
+  margin-left: 540px;
+
+}
